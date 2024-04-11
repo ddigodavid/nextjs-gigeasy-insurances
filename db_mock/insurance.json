@@ -1,0 +1,39 @@
+{
+  "insurances": [
+    {
+      "id": 1,
+      "name": "Auto Insurance",
+      "description": "Coverage for damage to your vehicle and liability for bodily injury and property damage to others.",
+      "requirements": "Valid driver's license, vehicle registration, and vehicle information.",
+      "price": 1500
+    },
+    {
+      "id": 2,
+      "name": "Home Insurance",
+      "description": "Protection for your home and belongings against damage or theft.",
+      "requirements": "Property ownership or rental agreement, inventory of belongings.",
+      "price": 1200
+    },
+    {
+      "id": 3,
+      "name": "Life Insurance",
+      "description": "Financial protection for your loved ones in case of your death.",
+      "requirements": "Health questionnaire, medical examination (for certain policies).",
+      "price": 2000
+    },
+    {
+      "id": 4,
+      "name": "Health Insurance",
+      "description": "Coverage for medical expenses, including hospital stays, surgeries, and prescriptions.",
+      "requirements": "Health questionnaire, medical history.",
+      "price": 1800
+    },
+    {
+      "id": 5,
+      "name": "Travel Insurance",
+      "description": "Protection for unexpected events during travel, such as trip cancellation, medical emergencies, and lost luggage.",
+      "requirements": "Travel itinerary, medical history (for certain policies).",
+      "price": 500
+    }
+  ]
+}
